@@ -1,0 +1,38 @@
+[
+  {
+    "id": "admin-id",
+    "name": "Site Administrator",
+    "email": "admin@yatrai.ai",
+    "avatar": "https://i.pravatar.cc/150?u=admin",
+    "role": "admin",
+    "lastLogin": "2026-04-19T01:50:00.000Z"
+  },
+  {
+    "id": "11223344",
+    "name": "Manish Sharma",
+    "email": "manish@example.com",
+    "avatar": "https://i.pravatar.cc/150?u=manish",
+    "lastLogin": "2026-04-19T01:45:00.000Z"
+  },
+  {
+    "id": "55667788",
+    "name": "Priya Patel",
+    "email": "priya@example.com",
+    "avatar": "https://i.pravatar.cc/150?u=priya",
+    "lastLogin": "2026-04-18T20:30:00.000Z"
+  },
+  {
+    "id": "101958531174381053023",
+    "name": "ALL GAMING SHOW",
+    "email": "shunita925@gmail.com",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKwPIEmf4DgTDNj9dr-03Ka-81EuGOuJrob5DZlOII3WSnhMya1=s96-c",
+    "lastLogin": "2026-04-19T02:26:19.163Z"
+  },
+  {
+    "id": "109501997380226962425",
+    "name": "Anish Yadav",
+    "email": "25amtics330@gmail.com",
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLJCwJ8HUfAKak77P1HotxWsMof6WM60UcIoqbRiYruNoS7iW4=s96-c",
+    "lastLogin": "2026-04-19T02:48:07.043Z"
+  }
+]

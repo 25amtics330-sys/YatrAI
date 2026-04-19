@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jaipur",
+    "type": "city",
+    "budget": "medium",
+    "interests": ["history", "culture"],
+    "days": 2
+  },
+  {
+    "name": "Goa",
+    "type": "beach",
+    "budget": "high",
+    "interests": ["party", "beach"],
+    "days": 3
+  },
+  {
+    "name": "Rishikesh",
+    "type": "adventure",
+    "budget": "low",
+    "interests": ["spiritual", "adventure"],
+    "days": 2
+  }
+]

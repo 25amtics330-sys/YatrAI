@@ -1,0 +1,31 @@
+{
+  "totalViews": 1254,
+  "chatMessages": 432,
+  "popularDestinations": {
+    "jaipur": 156,
+    "udaipur": 142,
+    "jaisalmer": 98,
+    "varanasi": 87,
+    "rishikesh": 65
+  },
+  "dailyViews": {
+    "2026-04-13": 120,
+    "2026-04-14": 150,
+    "2026-04-15": 110,
+    "2026-04-16": 190,
+    "2026-04-17": 210,
+    "2026-04-18": 240,
+    "2026-04-19": 234
+  },
+  "topCities": {
+    "Jaipur": 35,
+    "Delhi": 25,
+    "Mumbai": 20,
+    "Udaipur": 12,
+    "Bangalore": 8
+  },
+  "activeSessions": {
+    "session-1": 1776563456789,
+    "session-2": 1776563456790
+  }
+}
